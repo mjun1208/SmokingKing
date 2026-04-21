@@ -1,20 +1,26 @@
-# 서울디지텍고등학교 흡연 예방 공모전 금상
+# 서울디지텍고등학교 흡연 예방 공모전 금상 / ソウルデジテック高等学校 喫煙予防コンテスト 金賞
 # Smoking King
 
-#### 영상 링크 :
+#### 영상 링크 / 動画リンク :
 
 [![Video_Label](http://img.youtube.com/vi/sGHNMIRXPZA/0.jpg)](https://youtu.be/sGHNMIRXPZA)
 
-#### 실행 파일 : 
+#### 실행 파일 / 実行ファイル : 
 https://github.com/mjun1208/SmokingKing/releases/tag/SmokingKing
 
-## 게임 설명 : 
+## 게임 설명 / ゲーム説明 : 
 언더테일을 모작한 게임입니다. 
 조건에 따라 엔딩이 달라집니다.
 
-사용 기술 : 
+「UNDERTALE」をもとにした模作ゲームです。
+選択した条件によってエンディングが変化します。
+
+사용 기술 / 使用技術 : 
 Rect로 충돌처리를 구현했습니다.
 Sin Cos으로 여러 총알 패턴을 구현했습니다.
+
+Rectを用いて衝突判定を実装
+Sin、Cosを活用して多様な弾幕パターンを実装
 
 ![캡처_2020_03_17_19_28_54_156](https://github.com/user-attachments/assets/0ef3d2e0-051d-4b3c-8406-6f71dbe96aaf)
 ![캡처_2020_03_17_19_29_07_9](https://github.com/user-attachments/assets/07f46a60-6189-4aad-a6d7-9c08720890d2)
