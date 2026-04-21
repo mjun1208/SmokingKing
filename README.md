@@ -16,11 +16,11 @@ https://github.com/mjun1208/SmokingKing/releases/tag/SmokingKing
 選択した条件によってエンディングが変化します。</br>
 
 사용 기술 / 使用技術 : 
-Rect로 충돌처리를 구현했습니다.
-Sin Cos으로 여러 총알 패턴을 구현했습니다.
+Rect로 충돌처리를 구현했습니다.</br>
+Sin Cos으로 여러 총알 패턴을 구현했습니다.</br>
 
-Rectを用いて衝突判定を実装
-Sin、Cosを活用して多様な弾幕パターンを実装
+Rectを用いて衝突判定を実装</br>
+Sin、Cosを活用して多様な弾幕パターンを実装</br>
 
 ![캡처_2020_03_17_19_28_54_156](https://github.com/user-attachments/assets/0ef3d2e0-051d-4b3c-8406-6f71dbe96aaf)
 ![캡처_2020_03_17_19_29_07_9](https://github.com/user-attachments/assets/07f46a60-6189-4aad-a6d7-9c08720890d2)
